@@ -4,7 +4,7 @@ import java.lang.annotation.RetentionPolicy;
 /**
  * Аннотация для полей класса, которые можно заполнить автоматчиески с помощью файла
  * .properties.
- * @autor Антон Кручинин
+ * @autor Алексей Якимов
  */
 @Retention(RetentionPolicy.RUNTIME)
 public @interface AutoInjectable {
