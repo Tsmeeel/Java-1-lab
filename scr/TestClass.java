@@ -1,6 +1,6 @@
 /**
  * Тестовый класс со полями <b>someInterface</b>, <b>otherInterface</b> и <b>noWorkInterface</b> для демонстрации рефлексии.
- * @autor Антон Кручинин
+ * @autor Алексей Якимов
  * @see AutoInjectable
  * @see SomeInterface
  * @see OtherInterface
