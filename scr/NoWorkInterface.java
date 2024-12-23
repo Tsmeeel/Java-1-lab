@@ -1,6 +1,6 @@
 /**
  * Тестовый интерфейс
- * @autor Антон Кручинин
+ * @autor Алексей Якимов
  */
 public interface NoWorkInterface {
     void noWork();
