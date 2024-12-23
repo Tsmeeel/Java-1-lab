@@ -1,7 +1,7 @@
 /**
  * Тестовый класс, имплементирующий интерфейс
  * @see NoWorkInterface
- * @autor Антон Кручинин
+ * @autor Алексей Якимов
  */
 public class NoWorkClass implements NoWorkInterface{
     @Override
