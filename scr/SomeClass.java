@@ -1,7 +1,7 @@
 /**
  * Тестовый класс, имплементирующий интерфейс
  * @see SomeInterface
- * @autor Антон Кручинин
+ * @autor Алексей Якимов
  */
 public class SomeClass implements SomeInterface {
     @Override
