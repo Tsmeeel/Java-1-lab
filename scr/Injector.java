@@ -12,7 +12,7 @@ import java.util.Properties;
  * соответствующего интерфейса в некотором файле
  * настроек.
  * @see AutoInjectable
- * @autor Антон Кручинин
+ * @autor Алексей Якимов
  */
 public class Injector {
     private Properties properties = new Properties();
